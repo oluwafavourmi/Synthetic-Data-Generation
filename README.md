@@ -1,1 +1,2 @@
 # Synthetic-Data-Generation
+In this repository, the project focus here will deal about generating synthetic data using different AI algorithmns, this repository is still in progress and more updates will be coming soon.
