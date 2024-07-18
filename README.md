@@ -1,6 +1,8 @@
 # Synthetic-Data-Generation
 # For experiments conducted in the 'synthetic_data.ipynb' note book:
 
+![original plot of the dataset](https://github.com/oluwafavourmi/Synthetic-Data-Generation/blob/main/plots/AE%20DR.png)
+
 ##### In conclusion to this particular experiment differnt latent space values were used to test the Variational AutoEncoder in synthetic data generation and all experiments were passed through a vanilla AutoEncoder, using the encoder part of the vanilla AutoEncoder to visualize the synthetic data generated. The following were observed:
 
 #####    1. In the original dataset, Majority  has an acsending structure, something of a postive corrrelation
